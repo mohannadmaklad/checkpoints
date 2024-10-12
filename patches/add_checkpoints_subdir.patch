@@ -1,0 +1,12 @@
+diff --git a/plugin/CMakeLists.txt b/plugin/CMakeLists.txt
+index 16d35ff..8175650 100644
+--- a/plugin/CMakeLists.txt
++++ b/plugin/CMakeLists.txt
+@@ -29,6 +29,7 @@ function(add_plugin NAME)
+         COMPONENT ${NAME})
+ endfunction()
+ 
++add_subdirectory(checkpointsplugin)
+ add_subdirectory(dltdbusplugin)
+ add_subdirectory(dltlogstorageplugin)
+ add_subdirectory(dltsystemviewerplugin)

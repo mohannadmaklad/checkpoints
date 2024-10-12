@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/png">
+        <file alias="icon-add">resources/png/icon-add.png</file>
+        <file alias="icon-bad">resources/png/icon-bad.png</file>
+        <file alias="icon-ok">resources/png/icon-ok.png</file>
+        <file alias="icon-rm">resources/png/icon-rm.png</file>
+        <file>resources/png/icons-bin.png</file>
+        <file>resources/png/icons-import.png</file>
+        <file>resources/png/icons-save.png</file>
+        <file>resources/png/icon-lens.png</file>
+        <file alias="icon-unknown">resources/png/icon-unknown.png</file>
+        <file>resources/png/logo.png</file>
+    </qresource>
+</RCC>
